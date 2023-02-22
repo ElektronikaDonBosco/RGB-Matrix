@@ -23,9 +23,7 @@ In the first step we need to know the list of raw material:
 2x LM317 (2 voltage divider to get a tension of 4.29V and a 3.7V)
 2x Potentiometer of 1.5K
 2x 80 pin strip
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Our first step was learn how to control the multiplexer:
 
 
 
